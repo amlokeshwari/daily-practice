@@ -1,0 +1,10 @@
+n=int(input())
+a=bin(n)
+b=oct(n)
+c=hex(n)
+ans1=a[2:]
+ans2=b[2:]
+ans3=c[2:]
+print("Binary Value:",ans1)
+print("Octal value:",ans2)
+print("Hexadecimal Value:",ans3)
