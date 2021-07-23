@@ -1,0 +1,2 @@
+n=int(input())
+print("Number of events hosted in codissia is",n)
