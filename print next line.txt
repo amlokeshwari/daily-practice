@@ -1,0 +1,16 @@
+a=input()
+b=int(input())
+c=float(input())
+print(a)
+print('**')
+print(b)
+print('**')
+print(c)
+
+
+output:  
+Ramesh
+**
+25
+**
+1567.0
