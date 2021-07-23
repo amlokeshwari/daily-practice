@@ -1,0 +1,2 @@
+name=str(input())#Good Morning.Please have a cup of coffee
+print(name)#o/p:Good Morning.Please have a cup of coffee
