@@ -1,0 +1,3 @@
+P=float(input())#24.59123
+print("The Price is:"+"{2.f}".format(P))07:35 23-07-2021
+#output: The Price is:24.59
