@@ -1,0 +1,5 @@
+L=int(input())
+B=int(input())
+H=int(input())
+Volume_of_cuboid=L*B*H
+print(Volume_of_cuboid)07:32 23-07-2021
