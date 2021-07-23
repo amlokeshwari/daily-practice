@@ -1,0 +1,5 @@
+L=int(input()) #20
+B=int(input()) #10
+perimeter=2*(L+B)
+print(perimeter)  #output:60
+07:41 23-07-2021
